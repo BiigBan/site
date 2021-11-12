@@ -1,0 +1,40 @@
+.main {
+}
+.info {
+    padding: 100px 0 0 0;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    width: 100%;
+}
+.info__row {
+}
+.info__body {
+    width: 270px;
+    margin: 0 auto;
+}
+.info__image {
+    margin: 0 0 20px 0;
+}
+.info__title {
+    font-size: 22px;
+    line-height: 1.2;
+    font-weight: 400;
+    color: #2d3033;
+    margin: 0 0 15px 0;
+}
+.info__subtitle {
+    font-size: 13px;
+    line-height: 1.2;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #e84545;
+    margin: 0 0 15px 0;
+}
+.info__text {
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 400;
+    color: #6c7279;
+}
